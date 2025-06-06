@@ -1,0 +1,11 @@
+smart-mining-optimizer/  
+│── README.md  
+│── LICENSE  
+│── requirements.txt  
+│── mining_optimizer.py  
+│── config/  
+│   └── settings.json  
+│── docs/  
+│   └── USER_GUIDE.md  
+│── scripts/  
+│   └── install.sh  

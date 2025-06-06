@@ -1,0 +1,6 @@
+{
+  "mining_mode": "balanced",
+  "max_temp": 75,
+  "power_limit": 80,
+  "preferred_algo": "RandomX"
+}
